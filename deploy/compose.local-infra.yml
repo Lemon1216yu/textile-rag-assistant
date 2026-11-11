@@ -1,0 +1,8 @@
+# Optional local integration-test ports. Never include this override in production.
+services:
+  mysql:
+    ports: ['127.0.0.1:13366:3306']
+  redis:
+    ports: ['127.0.0.1:16386:6379']
+  milvus:
+    ports: ['127.0.0.1:19536:19530']

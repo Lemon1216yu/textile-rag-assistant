@@ -1,0 +1,140 @@
+{
+  "bm25": {
+    "answerable": 9,
+    "hit_at_6": 1.0,
+    "mrr_at_6": 0.926,
+    "no_answer_correct": 1,
+    "no_answer_total": 1,
+    "cases": [
+      {
+        "id": "spec-weight",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "sample-width",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "sample-blend",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "batch",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "merch",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "sales",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "quality",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "wastewater",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "cotton",
+        "answerable": true,
+        "rank": 3,
+        "returned": 6
+      },
+      {
+        "id": "unknown",
+        "answerable": false,
+        "rank": null,
+        "returned": 0
+      }
+    ]
+  },
+  "hybrid": {
+    "answerable": 9,
+    "hit_at_6": 1.0,
+    "mrr_at_6": 0.944,
+    "no_answer_correct": 1,
+    "no_answer_total": 1,
+    "cases": [
+      {
+        "id": "spec-weight",
+        "answerable": true,
+        "rank": 1,
+        "returned": 3
+      },
+      {
+        "id": "sample-width",
+        "answerable": true,
+        "rank": 1,
+        "returned": 2
+      },
+      {
+        "id": "sample-blend",
+        "answerable": true,
+        "rank": 1,
+        "returned": 3
+      },
+      {
+        "id": "batch",
+        "answerable": true,
+        "rank": 1,
+        "returned": 2
+      },
+      {
+        "id": "merch",
+        "answerable": true,
+        "rank": 1,
+        "returned": 4
+      },
+      {
+        "id": "sales",
+        "answerable": true,
+        "rank": 1,
+        "returned": 3
+      },
+      {
+        "id": "quality",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "wastewater",
+        "answerable": true,
+        "rank": 1,
+        "returned": 6
+      },
+      {
+        "id": "cotton",
+        "answerable": true,
+        "rank": 2,
+        "returned": 6
+      },
+      {
+        "id": "unknown",
+        "answerable": false,
+        "rank": null,
+        "returned": 0
+      }
+    ]
+  }
+}

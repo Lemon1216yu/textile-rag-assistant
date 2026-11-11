@@ -1,0 +1,82 @@
+[
+  {
+    "id": "spec-weight",
+    "query": "C240 的克重范围是多少？",
+    "department": "跟单",
+    "fabric": "C240",
+    "title": "C240 纯棉斜纹",
+    "evidence": "240±10"
+  },
+  {
+    "id": "sample-width",
+    "query": "C180 有效幅宽是多少？",
+    "department": "营销",
+    "fabric": "C180",
+    "title": "C180 纯棉平纹",
+    "evidence": "150±2"
+  },
+  {
+    "id": "sample-blend",
+    "query": "TC210 的涤纶含量是多少？",
+    "department": "营销",
+    "fabric": "TC210",
+    "title": "TC210 涤棉斜纹",
+    "evidence": "65%"
+  },
+  {
+    "id": "batch",
+    "query": "研发试样出现色差时需要核对哪些条件？",
+    "department": "研发",
+    "fabric": "C240",
+    "title": "研发内部",
+    "evidence": "温度曲线"
+  },
+  {
+    "id": "merch",
+    "query": "跟单收到客户来样后要登记哪些信息？",
+    "department": "跟单",
+    "fabric": "",
+    "title": "跟单作业",
+    "evidence": "样品编号"
+  },
+  {
+    "id": "sales",
+    "query": "推荐历史样品时应展示哪些差异？",
+    "department": "营销",
+    "fabric": "",
+    "title": "营销服务",
+    "evidence": "不符条件"
+  },
+  {
+    "id": "quality",
+    "query": "色牢度检验报告应记录什么？",
+    "department": "营销",
+    "fabric": "",
+    "title": "质量知识",
+    "evidence": "测试日期"
+  },
+  {
+    "id": "wastewater",
+    "query": "丝绸制丝废水主要有哪些污染物？",
+    "department": "跟单",
+    "fabric": "",
+    "title": "污染防治可行技术指南",
+    "evidence": 6
+  },
+  {
+    "id": "cotton",
+    "query": "棉织物掉色和耐洗色牢度有什么关系？",
+    "department": "营销",
+    "fabric": "",
+    "title": "棉纺织品的色牢度",
+    "evidence": 5
+  },
+  {
+    "id": "unknown",
+    "query": "月球背面的陨石坑有多深？",
+    "department": "研发",
+    "fabric": "",
+    "title": "",
+    "evidence": null
+  }
+]

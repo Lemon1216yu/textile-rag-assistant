@@ -1,0 +1,75 @@
+{
+  "dataset": "synthetic-v1",
+  "metric": "target-document Hit@4 chunks",
+  "cases": 7,
+  "hits": 7,
+  "hit_rate": 1.0,
+  "limitations": "Tiny synthetic smoke set. Not enterprise Recall@K, answer accuracy,. No model API called.",
+  "results": [
+    {
+      "question": "C240 的成分和克重是多少",
+      "department": "跟单",
+      "target_doc": "spec-c240",
+      "retrieved": [
+        "spec-c240"
+      ],
+      "hit": true
+    },
+    {
+      "question": "C180 的缩水率是多少",
+      "department": "跟单",
+      "target_doc": "spec-c180",
+      "retrieved": [
+        "spec-c180"
+      ],
+      "hit": true
+    },
+    {
+      "question": "TC210 成分是什么",
+      "department": "营销",
+      "target_doc": "spec-tc210",
+      "retrieved": [
+        "spec-tc210"
+      ],
+      "hit": true
+    },
+    {
+      "question": "客户来样打样需要登记什么",
+      "department": "跟单",
+      "target_doc": "merch-sop",
+      "retrieved": [
+        "merch-sop",
+        "spec-c240"
+      ],
+      "hit": true
+    },
+    {
+      "question": "报价需要谁审批",
+      "department": "营销",
+      "target_doc": "sales-sop",
+      "retrieved": [
+        "sales-sop",
+        "spec-c240"
+      ],
+      "hit": true
+    },
+    {
+      "question": "C240 色差要排查哪些条件",
+      "department": "研发",
+      "target_doc": "rd-process",
+      "retrieved": [
+        "rd-process"
+      ],
+      "hit": true
+    },
+    {
+      "question": "色牢度包含哪些指标",
+      "department": "跟单",
+      "target_doc": "quality-guide",
+      "retrieved": [
+        "quality-guide"
+      ],
+      "hit": true
+    }
+  ]
+}

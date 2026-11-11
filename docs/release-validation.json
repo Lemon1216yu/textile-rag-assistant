@@ -1,0 +1,20 @@
+{
+  "container_ready": {
+    "status": "ready"
+  },
+  "local_ready": {
+    "status": "ready"
+  },
+  "source_hashes_match": true,
+  "source_sha256": {
+    "enterprise/main.py": "f2cc0edbca7d636b4f8ee8bea466f24775beae5b70aace5641604e7390099ff6",
+    "enterprise/rag.py": "1174195721186da674e40191f0ce4d7ebbe589c33dfa7d9d971dabb3c0f630b8",
+    "enterprise/db.py": "b8b2da6f4b474b0abb0ac748b4c300881ac1a7ae1f91978c1f6dc55a35327717",
+    "enterprise/ingestion.py": "59e02db5fcec5206a981f83b72f636175ae79da8867f486b844df933eb58f402",
+    "frontend/dist/index.html": "03184a1fd53e075f6accaae2a7126bfa6d4e01463e10a3a5562ef5b4218442a5"
+  },
+  "image_id": "sha256:29a8d46167abeadf57acbe419cfedb6395e3aeac5fea20284b6ffc89bfe54c81",
+  "container_user": "10001",
+  "read_only_root": true,
+  "note": "Final source and frontend refreshed over successfully built multistage image; development-mode container smoke test, no real model calls."
+}

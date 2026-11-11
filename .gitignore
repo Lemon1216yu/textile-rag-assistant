@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+!.env.enterprise.example
+!deploy/.env.example
+frontend/node_modules/
+frontend/dist/
+deploy/secrets/
+data/
+tmp/
+*.log
+*.tsbuildinfo
+
+frontend/public/assets/manual/

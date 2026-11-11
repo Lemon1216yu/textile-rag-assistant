@@ -1,0 +1,19 @@
+{
+  "feature": "workspace model settings",
+  "container_ready": {
+    "status": "ready"
+  },
+  "source_hashes_match": true,
+  "sha256": {
+    "enterprise/model_settings.py": "b782fd849228c36548a672082ba09e101353280052521695267769b2cf4f2dbf",
+    "enterprise/main.py": "c63379ab54d9a4c1d3ce68ea9a0c00fa2c011225ab07c25278cf638ccb7f4bc8",
+    "enterprise/config.py": "83325dc7349a60f828ece67911b1757b9e7234467402dfbe487295d92c7388a6",
+    "enterprise/providers.py": "87776c69dd77e462dbeee7e5c567af153d0d286d96bab190c4b7bf37a31ea20b",
+    "enterprise/ingestion.py": "de9d73579e486785587ce377a049d9aef8460b275200632378023abac934d73f",
+    "frontend/dist/index.html": "b853c04b9e828c2756cda3146e09eceb6de1f6dbc1b68a8de86a6d878836a8dd"
+  },
+  "image_id": "sha256:2a1c090b051a6b43331b576172d4b96ae224c9559cea0259b020552471c2a235",
+  "tests": 42,
+  "real_provider_keys_used": false,
+  "note": "Incremental image from verified runtime; filelock wheel downloaded from PyPI with SHA256 verification."
+}

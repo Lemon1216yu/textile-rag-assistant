@@ -1,0 +1,20 @@
+[
+  {
+    "filename": "HJ1177-2021.pdf",
+    "title": "外部参考｜纺织工业污染防治可行技术指南",
+    "version": "HJ1177-2021",
+    "publisher": "生态环境部",
+    "url": "https://www.mee.gov.cn/ywgz/fgbz/bz/bzwb/kxxjszn/202106/W020210809521494726861.pdf",
+    "rights": "公开下载；保留发布机构权利。仅作检索验证，不代替企业适用性审核。",
+    "sha256": "4fd114b3ee216bcf70fb7e8c6745e02a9115cc377a9e1d845288708451a9ed18"
+  },
+  {
+    "filename": "cotton-colorfastness-zh.pdf",
+    "title": "外部参考｜棉纺织品的色牢度",
+    "version": "ISP1001",
+    "publisher": "Cotton Incorporated",
+    "url": "https://www.cottoninc.com/wp-content/uploads/2017/12/ISP-1001-Colorfastness-of-Cotton-Textiles_zh.pdf",
+    "rights": "版权归 Cotton Incorporated；下载供本地研究，不随代码再分发。",
+    "sha256": "740b75a13a2ef1391be23806651a1d4627c0a3a3aac1b5260b6e201bbadfd645"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "checks": [
+    "MySQL migration + authenticated upload + durable worker + publication + RAG",
+    "MySQL timestamp precision",
+    "Redis fact persistence, expiry and distributed lock",
+    "Milvus real vector writes, search and department/publication filters",
+    "Cross-department API isolation on MySQL",
+    "Retired document history redaction"
+  ],
+  "passed": 6,
+  "external_models": "NOT TESTED; deterministic synthetic vectors only",
+  "timestamp": 1790220226.6345472
+}
